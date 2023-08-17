@@ -11,3 +11,17 @@ Can you check about the 3 different CPU specifications
      properties = xeon,clx,ram192gb,net1gbe,batch,extended,fpga,stratix10,fpga_runtime
 How much RAM do these 3 machines have
      192gb
+
+
+    9.
+    total 28
+    drwxrwxr-x 2 u201337 u201337 4096 Aug 16 23:25 Exercise02
+    -rw-rw-r-- 1 u201337 u201337   48 Aug 16 23:32 exercise02.txt
+    -rw-rw-r-- 1 u201337 u201337  582 Aug 17 09:50 exercise03.txt
+    -rw-rw-r-- 1 u201337 u201337  138 Aug 17 09:53 job1.job
+    -rw------- 1 u201337 u201337  108 Aug 17 09:54 MSc-CS-2022-033.e2359665
+    -rw------- 1 u201337 u201337  660 Aug 17 09:54 MSc-CS-2022-033.o2359665
+    -rw-rw-r-- 1 u201337 u201337   17 Aug 16 23:21 README.md
+
+    10. nproc  - 10
+        
