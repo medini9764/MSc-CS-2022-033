@@ -1,6 +1,6 @@
 #PBS -l walltime=00:03:00
 #PBS -N MSc-CS-2022-033
-#PBS -l nodes=4:gpu
+#PBS -l nodes=2:gpu
 
 cd $PBS_O_WORKDIR
 cat $PBS_NODEFILE
