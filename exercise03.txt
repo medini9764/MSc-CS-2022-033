@@ -1,0 +1,13 @@
+01.
+What are the computer configurations you can see.
+    state = free
+     power_state = Running
+     np = 2
+     properties = xeon,clx,ram192gb,net1gbe,batch,extended,fpga,stratix10,fpga_runtime
+     ntype = cluster
+Can you check about the 3 different CPU specifications
+     properties = xeon,clx,ram192gb,net1gbe,batch,extended,fpga,stratix10,fpga_runtime
+     properties = xeon,clx,ram192gb,net1gbe,batch,extended,fpga,stratix10,fpga_runtime
+     properties = xeon,clx,ram192gb,net1gbe,batch,extended,fpga,stratix10,fpga_runtime
+How much RAM do these 3 machines have
+     192gb
